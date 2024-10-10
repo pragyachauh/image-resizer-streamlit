@@ -1,7 +1,7 @@
 # Image Resizer App README
 
 ## Overview
-This Image Resizer application is built using the Streamlit framework, which allows for rapid development of data applications with simple Python scripts. The app provides a user-friendly interface for uploading and resizing PNG images.
+This Image Resizer application is built using the Streamlit framework, which allows for rapid development of data applications with simple Python scripts. The app provides a user-friendly interface for uploading and resizing PNG images. You can use this app here: https://customimage-resizer.streamlit.app/
 
 ## Features
 - **File Upload**: Users can upload a PNG image to be resized.
