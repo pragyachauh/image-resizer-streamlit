@@ -30,4 +30,4 @@ To use the Image Resizer app, you need to have Python and Streamlit installed on
     ```
 
 ### Running the App
-To run the app, navigate to the directory containing the script and execute the following command in your terminal:
+To run the locally app, navigate to the directory containing the script and execute the following command in your terminal:
